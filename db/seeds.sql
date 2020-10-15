@@ -1,6 +1,5 @@
-INSERT INTO cats (name) VALUES ('Meeses');
-INSERT INTO cats (name) VALUES ('Bobbi');
-INSERT INTO cats (name, sleepy) VALUES ('Sylvester', true);
-INSERT INTO cats (name, sleepy) VALUES ('Marilyn Manson', true);
-INSERT INTO cats (name, sleepy) VALUES ('Joe Biden', true);
-INSERT INTO cats (name) VALUES ('Owens');
+USE burgers_db;
+
+INSERT INTO burgers (name) VALUES ('Beyond Burger');
+INSERT INTO burgers (name) VALUES ('Cowboy Burger');
+INSERT INTO burgers (name) VALUES ('Cheeseburger');
