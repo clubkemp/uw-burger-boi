@@ -1,0 +1,25 @@
+{
+  "name": "uw-burger-boi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubkemp/uw-burger-boi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clubkemp/uw-burger-boi/issues"
+  },
+  "homepage": "https://github.com/clubkemp/uw-burger-boi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
